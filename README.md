@@ -50,10 +50,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cadumaia/cadumaia/output/snake.svg" alt="Snake animation" />
-
-###
