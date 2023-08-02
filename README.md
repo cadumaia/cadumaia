@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadumaia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cadumaia&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="190" alt="languages graph"  />
+<div>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cadumaia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cadumaia&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=midnight-purple&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -37,9 +37,7 @@
 
 ###
 
-<br clear="both">
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"  />
 
 ###
 
