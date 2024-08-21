@@ -3,8 +3,8 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cadumaia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue_navy&locale=pt-br&hide_border=true&" height="180" alt="stats graph"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cadumaia&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=blue_navy&hide_border=true" height="180" alt="languages graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cadumaia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&" height="180" alt="stats graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cadumaia&locale=pt-br&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=true" height="180" alt="languages graph"/>
 </div>
 
 ###
