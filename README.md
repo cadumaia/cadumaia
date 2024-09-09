@@ -1,4 +1,4 @@
-<h3 align="left">Olá 👋! Me chamo Carlos Eduardo e sou um apaixonado Desenvolvedor.</h3>
+<h3 align="left">Olá 👋! Me chamo Carlos Eduardo e sou um apaixonado Desenvolvedor Web.</h3>
 
 ###
 
