@@ -4,7 +4,7 @@
 
 <p align = "left"> Formado em Informática pelo IFCE.
 <br>
-Atualmente priorizando a construção de projetos pessoais.
+Focado na construção de projetos pessoais.
 <br>
 Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
 </p>
@@ -12,7 +12,7 @@ Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadumaia&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=react&locale=pt-br&hide_border=true" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cadumaia&hide_title=true&hide_rank=false&show_icons=true&count_private=true&disable_animations=true&theme=react&locale=pt-br&hide_border=true" height="150" alt="stats graph"/>
   <img src="https://streak-stats.demolab.com?user=cadumaia&locale=pt-br&mode=weekly&theme=react&hide_border=true&border_radius=5" height="150" alt="streak graph"/>
 </div>
 
