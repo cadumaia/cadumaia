@@ -57,7 +57,7 @@ Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
 <h2> Minhas Redes Sociais: </h2>
 
 <div align="left">
-  <a href="https://instagram.com/caduumd" target="_blank">
+  <a href="https://instagram.com/cadu.md" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-maia" target="_blank">
