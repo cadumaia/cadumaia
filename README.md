@@ -1,9 +1,12 @@
-<h2 align="left">Olá👋🏻! Meu nome é Carlos Eduardo e sou um apaixonado Desenvolvedor Web!</h2>
+<h2 align="left">Olá👋🏻! Meu nome é Carlos Eduardo e sou apaixonado por Desenvolvimento!</h2>
 
 ###
 
 <p align = "left"> Formado em Informática pelo IFCE.
 <br>
+Cursando ADS em Uninassau
+<br>
+  
 Focado na construção de projetos pessoais.
 <br>
 Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
@@ -57,7 +60,7 @@ Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
 <h2> Minhas Redes Sociais: </h2>
 
 <div align="left">
-  <a href="https://instagram.com/cadu.md" target="_blank">
+  <a href="https://instagram.com/cadu.emd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-maia" target="_blank">
