@@ -4,12 +4,8 @@
 
 <p align = "left"> Formado em Informática pelo IFCE.
 <br>
-Cursando ADS em Uninassau
+Cursando ADS em Uninassau.
 <br>
-  
-Focado na construção de projetos pessoais.
-<br>
-Perfil em facilidade para aprender, trabalho em equipe e raciocínio lógico.
 </p>
 
 ###
