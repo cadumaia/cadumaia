@@ -1,4 +1,4 @@
-<h2 align="left">Olá👋🏻! Meu nome é Carlos Eduardo e sou apaixonado por Desenvolvimento!</h2>
+<h2 align="left">Olá👋🏻! Meu nome é Carlos Eduardo.</h2>
 
 ###
 
